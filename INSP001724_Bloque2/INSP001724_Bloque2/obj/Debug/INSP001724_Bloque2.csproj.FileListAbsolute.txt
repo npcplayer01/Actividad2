@@ -1,0 +1,11 @@
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\bin\Debug\db_peliculas.mdf
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\bin\Debug\db_peliculas_log.ldf
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\bin\Debug\INSP001724_Bloque2.exe.config
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\bin\Debug\INSP001724_Bloque2.exe
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\bin\Debug\INSP001724_Bloque2.pdb
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\obj\Debug\INSP001724_Bloque2.csproj.AssemblyReference.cache
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\obj\Debug\INSP001724_Bloque2.Properties.Resources.resources
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\obj\Debug\INSP001724_Bloque2.csproj.GenerateResource.cache
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\obj\Debug\INSP001724_Bloque2.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\obj\Debug\INSP001724_Bloque2.exe
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\obj\Debug\INSP001724_Bloque2.pdb
