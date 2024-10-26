@@ -9,3 +9,9 @@ C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque
 C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\obj\Debug\INSP001724_Bloque2.csproj.CoreCompileInputs.cache
 C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\obj\Debug\INSP001724_Bloque2.exe
 C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\obj\Debug\INSP001724_Bloque2.pdb
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\obj\Debug\INSP001724_Bloque2.Form1.resources
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\obj\Debug\INSP001724_Bloque2.Form2.resources
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\obj\Debug\INSP001724_Bloque2.Form3.resources
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\bin\Debug\aa\INSP001724_Bloque2.resources.dll
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\obj\Debug\INSP001724_Bloque2.Form3.aa.resources
+C:\Users\Oscar Alvarenga\Desktop\Actividad2\INSP001724_Bloque2\INSP001724_Bloque2\obj\Debug\aa\INSP001724_Bloque2.resources.dll
